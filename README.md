@@ -1,6 +1,6 @@
 # kakao_profile
 카카오톡 프로필 화면입니다.
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@
     </div>
 
 </body>
-</html>
+</html> -->
 --------------------------------------------------------------
 * {
     font-family: 'Poor Story', cursive;
@@ -110,5 +110,17 @@
 .button-box > span {
     color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/79038451/147201380-7f476f8b-f70f-4888-b769-49650f341124.png)
 
